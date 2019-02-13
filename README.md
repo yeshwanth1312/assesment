@@ -13,7 +13,7 @@ The purpose of this repo is to house the Code to be used for technical screen of
 
 ### Some Suggestions
 
-We are looking to see what you are doing, We are not going to do anything to trick you but put your best foot forward. Demonstrate a working demo, feel free to exhibit your skills.
+We are looking to see what you are doing, We are not going to do anything to trick you but put your best foot forward. Demonstrate a working demo, feel free to exhibit your skills
 
 
 ###
